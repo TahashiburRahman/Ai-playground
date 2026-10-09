@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AI Studio</string>
+    <string name="tab_playground">Playground</string>
+    <string name="tab_prompts">Prompt Library</string>
+    <string name="tab_compare">Compare</string>
+    <string name="tab_settings">Settings</string>
+    <string name="run_prompt">Run</string>
+    <string name="system_instructions">System Instructions</string>
+    <string name="model_parameters">Model Parameters</string>
+    <string name="get_code">Get Code</string>
+</resources>
