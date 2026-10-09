@@ -1,0 +1,6 @@
+{
+  "name": "AI Studio",
+  "description": "Google AI Studio mobile client for testing Gemini models, prompt engineering, tuning system instructions and parameters, and exporting code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
